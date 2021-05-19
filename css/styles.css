@@ -1,0 +1,15 @@
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  color: navy;
+}
+
+.value {
+  font-size: 75px;
+}
